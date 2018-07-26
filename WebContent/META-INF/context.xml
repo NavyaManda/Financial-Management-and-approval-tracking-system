@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/FinMng">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="10" maxIdle="4" maxWait="4000" name="jdbc/fmats" password="root" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/fmats" username="root"/>
+</Context>
